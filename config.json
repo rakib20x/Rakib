@@ -35,17 +35,17 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100005193854879"
+    "61556610624408"
   ],
   "whiteListMode": {
-    "enable": false,
+    "enable": true,
     "whiteListIds": [
-      "100005193854879"
+      "100075808585925"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ツ",
-  "prefix": "?",
+  "nickNameBot": "𝐑𝐀𝐊𝐈𝐁-৬T৯ツ",
+  "prefix": "_",
   "BaYjidapi": "https://bayjid-hd.onrender.com",
   "api": "",
   "api2": "",
